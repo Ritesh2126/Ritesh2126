@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<img align="right" src="[https://drive.google.com/file/d/156mLVbpMGJW-5m6nSDUTAyr1rxkl-CMl/view?usp=sharing](https://github.com/Ritesh2126/Ritesh2126/blob/main/People_in_programming_01ung_03.jpg)" width="400" height="400">
+<img align="right" src="https://github.com/Ritesh2126/Ritesh2126/blob/main/People_in_programming_01ung_03.jpg" width="400" height="400">
 - 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **riteshgupta2100@gmail.com**
