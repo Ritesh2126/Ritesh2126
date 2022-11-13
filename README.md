@@ -9,11 +9,11 @@
 
 
 <img align="right" src="https://github.com/Ritesh2126/Ritesh2126/blob/main/People_in_programming_01ung_03.jpg" width="400" height="400">
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **riteshgupta2100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F1ymRTRsSVgD1MVLuY5I7hTlxOPbFdGf/view?usp=sharing](https://drive.google.com/file/d/1F1ymRTRsSVgD1MVLuY5I7hTlxOPbFdGf/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1F1ymRTRsSVgD1MVLuY5I7hTlxOPbFdGf/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
