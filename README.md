@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **riteshgupta2100@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1F1ymRTRsSVgD1MVLuY5I7hTlxOPbFdGf/view?usp=share_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1maYnvthGs0W_vD43g_GkoKDSXMrby7_w/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
