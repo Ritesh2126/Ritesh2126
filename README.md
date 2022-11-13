@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh2126&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh2126" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" src="https://drive.google.com/file/d/156mLVbpMGJW-5m6nSDUTAyr1rxkl-CMl/view?usp=sharing" width="400">
+
+
+<img align="right" src="https://drive.google.com/file/d/156mLVbpMGJW-5m6nSDUTAyr1rxkl-CMl/view?usp=sharing" width="400" height="400">
 - 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **riteshgupta2100@gmail.com**
