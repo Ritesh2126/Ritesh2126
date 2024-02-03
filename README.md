@@ -9,7 +9,7 @@
 
 
 <img align="right" src="https://github.com/Ritesh2126/Ritesh2126/blob/main/bro.png" width="400" height="400">
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **riteshgupta2100@gmail.com**
 
